@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Grayscale",
+    "route": "greyscale_image"
+  },
+  {
+    "name": "Normalization",
+    "route": "normalize_image"
+  }
+]
